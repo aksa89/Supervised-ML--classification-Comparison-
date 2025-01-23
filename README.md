@@ -18,6 +18,6 @@ Implement the following five classification algorithms:
 5. k-Nearest Neighbors (k-NN)
 For each algorithm, provide a brief description of how it works and why it might be suitable for this dataset.
 
-3. Model Comparison (2 marks)
+3. Model Comparison
 Compare the performance of the five classification algorithms.
 Which algorithm performed the best and which one performed the worst?
