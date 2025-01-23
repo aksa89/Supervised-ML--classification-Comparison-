@@ -1,0 +1,11 @@
+Project Summary
+In this project, various supervised machine learning algorithms were compared to detect breast cancer using a dataset from the sklearn library. The dataset underwent preprocessing to improve model performance, and several algorithms were tested, including Logistic Regression (LOG), K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Support Vector Machine (SVM). Various preprocessing techniques were used like handling null values, checking skewness , capping outliers etc. The dataset was divided into training and testing sets to evaluate model performance accurately.
+
+Key Findings:
+Best Performing Models: Logistic Regression (LOG) and Support Vector Machine (SVM) achieved the highest accuracy of 97.37%, with strong precision and recall, making them the top choices for this dataset.
+
+Random Forest: Delivered an accuracy of 96.49%, demonstrating good predictive capabilities.
+
+KNN and Decision Tree: These models had lower accuracy, with KNN at 94.74% and Decision Tree at 93.86%, indicating they might not be the most reliable options.
+
+Overall, Logistic Regression and SVM emerged as the most effective models for the dataset.
